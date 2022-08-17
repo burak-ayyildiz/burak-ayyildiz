@@ -15,5 +15,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=burak-ayyildiz&show_icons=true&locale=en&layout=compact" alt="burak-ayyildiz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burak-ayyildiz&" alt="burak-ayyildiz" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=burak-ayyildiz&" alt="burak-ayyildiz" /></p>
 
